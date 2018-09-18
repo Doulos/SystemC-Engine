@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
