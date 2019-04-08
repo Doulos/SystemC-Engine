@@ -13,7 +13,7 @@ the following are required:
 
 Under Linux/OS X, the commands would be:
 
-```cpp
+```bash
     mkdir build && cd build
     cmake ..
     make run
