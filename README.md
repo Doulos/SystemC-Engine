@@ -1,7 +1,8 @@
 # SystemC Simulation Engine
 
-This directory contains a presentation (pdf) and source code used
-to create the presentation.
+This directory contains a presentation (pdf) and source code used to create the presentation. Presentation explains how the SystemC event driven simulator works using a simple design and single stepping the simulator in a graphical fashion.
+
+![design](assets/design.jpg)
 
 In order to recreate the simulation used to create the presentation,
 the following are required:
