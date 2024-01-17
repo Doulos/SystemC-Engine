@@ -15,9 +15,9 @@ the following are required:
 Under Linux/OS X, the commands would be:
 
 ```bash
-    mkdir build && cd build
-    cmake ..
-    make run
+    cmake -B build
+    cmake --build build
+    ctest --test-dir build/debug -C Debug -VV -LE long
 ```
 
 
